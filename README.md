@@ -1,5 +1,5 @@
 # 💫 About Me:
-<br> Enthusiastic and knowledgeable DevOps Engineer with hands-on experience gained through an internship at ITE Infotec. Proficient<br> in AWS Cloud, Kubernetes, Docker, and RHCSA (Red Hat Certified System Administrator). Eager to apply my skills and continue<br> learning in a dynamic DevOps environment, contributing to the development of efficient and scalable solutions
+<br> Enthusiastic and knowledgeable DevOps Engineer with hands-on experience gained through an training at ITE Infotec. Proficient<br> in AWS Cloud, Kubernetes, Docker, and RHCSA (Red Hat Certified System Administrator). Eager to apply my skills and continue<br> learning in a dynamic DevOps environment, contributing to the development of efficient and scalable solutions
 
 
 ## 🌐 Socials:
