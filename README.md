@@ -3,8 +3,7 @@
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/nimish-rathi-593125239
-) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/nimish-rathi-59312523) 
 
 # 💻 Tech Stack:
 <h3 align="left">Languages and Tools:</h3>
