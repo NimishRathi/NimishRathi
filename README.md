@@ -1,5 +1,6 @@
 # 💫 About Me:
-<br> Enthusiastic and knowledgeable DevOps Engineer with hands-on experience gained through an training at ITE Infotec. Proficient<br> in AWS Cloud, Kubernetes, Docker, and RHCSA (Red Hat Certified System Administrator). Eager to apply my skills and continue<br> learning in a dynamic DevOps environment, contributing to the development of efficient and scalable solutions
+<br>"Hi, I'm NIMISH RATHI, an aspiring DevOps Engineer and Software Developer with expertise in Docker, Kubernetes, AWS, and Spring Boot. I'm skilled in Java, backend development, and CI/CD automation using Jenkins. As a Red Hat Certified System Administrator, I have hands-on experience setting up Kubernetes clusters and optimizing infrastructure. I’m also exploring JavaScript and Node.js to expand my full-stack capabilities. Currently interning, I’ve worked on projects like an Employee Payroll System with REST APIs and a QR-based attendance system. Passionate about tech, automation, and problem-solving, I’m always eager to learn and innovate!"
+
 
 
 ## 🌐 Socials:
